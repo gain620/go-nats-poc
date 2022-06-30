@@ -1,6 +1,6 @@
 # go-nats-poc
 ---
-Cloud native한 환경에서의 메시지큐 사용을 위한 NATS 기능 확인 및 embedded NATS server 기능 확인
+Cloud native 환경에서의 메시지큐 사용을 위한 NATS 기능 확인 및 embedded NATS server 기능 확인
 ---
 - 참고 문헌 및 블로그
 1. https://dev.to/karanpratapsingh/embedding-nats-in-go-19o
